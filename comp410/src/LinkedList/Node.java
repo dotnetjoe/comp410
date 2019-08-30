@@ -3,7 +3,7 @@
  * Don't modify this file!
 */
 
-package LinkedList_A1;
+package LinkedList;
 
 public class Node { //this is your Node object, these are the Objects in your list
   public double data;

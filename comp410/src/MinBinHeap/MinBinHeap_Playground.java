@@ -1,4 +1,4 @@
-package MinBinHeap_A3;
+package MinBinHeap;
 
 public class MinBinHeap_Playground {
   public static void main(String[] args){   

@@ -1,14 +1,14 @@
-package MinBinHeap_A3;
+package DiGraph;
 
 public class EntryPair implements EntryPair_Interface {
   public String value;
-  public int priority;
+  public long priority;
 
-  public EntryPair(String aValue, int aPriority) {
+  public EntryPair(String aValue, long aPriority) {
     value = aValue;
     priority = aPriority;
   }
 
   public String getValue() { return value; }
-  public int getPriority() { return priority; }
+  public long getPriority() { return priority; }
 }

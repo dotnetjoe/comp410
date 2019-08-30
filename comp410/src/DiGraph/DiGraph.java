@@ -1,4 +1,4 @@
-package DiGraph_A5;
+package DiGraph;
 
 import java.util.HashMap;
 import java.util.HashSet;

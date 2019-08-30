@@ -1,4 +1,4 @@
-package MinBinHeap_A3;
+package MinBinHeap;
 
 public interface Heap_Interface {
   /*

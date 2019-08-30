@@ -7,7 +7,7 @@
  *
 */
 
-package BST_A2;
+package BST;
 
 /*
   Interface: The BST will provide this collection of operations:

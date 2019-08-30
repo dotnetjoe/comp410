@@ -9,7 +9,7 @@
 */
 
 
-package LinkedList_A1;
+package LinkedList;
 /*
   Interface: The LIST will provide this collection of operations:
 

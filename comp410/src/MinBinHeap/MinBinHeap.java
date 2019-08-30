@@ -1,4 +1,4 @@
-package DiGraph_A5;
+package MinBinHeap;
 
 public class MinBinHeap implements Heap_Interface {
   private EntryPair[] array; //load this array

@@ -3,7 +3,7 @@
  *See inline comment descriptions for methods not described in interface.
  *
 */
-package LinkedList_A1;
+package LinkedList;
 
 public class LinkedListImpl implements LIST_Interface {
   Node sentinel; //this will be the entry point to your linked list (the head)

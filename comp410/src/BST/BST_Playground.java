@@ -1,4 +1,4 @@
-package BST_A2;
+package BST;
 
 public class BST_Playground {
 /*

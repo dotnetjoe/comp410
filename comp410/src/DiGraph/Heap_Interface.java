@@ -1,4 +1,4 @@
-package DiGraph_A5;
+package DiGraph;
 
 public interface Heap_Interface {
   /*
