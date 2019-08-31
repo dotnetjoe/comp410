@@ -10,4 +10,5 @@ public interface BST_Interface {
   public int size();
   public int height();
   public BST_Node getRoot();
+  
 }
