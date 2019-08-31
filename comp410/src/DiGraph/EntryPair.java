@@ -1,14 +1,18 @@
 package DiGraph;
 
 public class EntryPair implements EntryPair_Interface {
-  public String value;
-  public long priority;
+    public String value;
+    public long priority;
 
-  public EntryPair(String aValue, long aPriority) {
-    value = aValue;
-    priority = aPriority;
-  }
+    public EntryPair(String aValue, long aPriority) {
+        value = aValue;
+        priority = aPriority;
+    }
 
-  public String getValue() { return value; }
-  public long getPriority() { return priority; }
+    public String getValue() {
+        return value;
+    }
+    public long getPriority() {
+        return priority;
+    }
 }
